@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-classes-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-reports-tests.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-test-results.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-tmp.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-About_recursion.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Fix_the_method_to_print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-K-combination.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Recursion-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
